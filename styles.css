@@ -1,0 +1,40 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px;
+    background-color: rgb(99, 31, 216);
+    color: rgb(209, 182, 255);
+}
+
+.nav-list {
+    margin: 0 10px;
+    color: rgb(209, 182, 255);
+}
+
+h1 {
+    margin: 0;
+    font-size: 28px;
+}
+
+.nav-ul {
+    display: flex;
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    color: rgb(209, 182, 255);
+}
+
+
+
+.nav-link {
+    color: #fff;
+    text-decoration: none;
+    font-size: 18px;
+}
